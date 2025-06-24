@@ -15,7 +15,6 @@
 
 ---
 
-<h2>🚀 What I'm Working On</h2>
 
 - 🧠 Building intelligent systems using Python, Transformers, LLMs, and RAG
 - 💻 Scaling backend applications with Spring Boot, Django, and PostgreSQL
@@ -24,10 +23,6 @@
 
 ---
 
-
-
-<p>
-  <h2>🚀 Tech Stack</h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
@@ -50,8 +45,6 @@
 ---
 
  
-
-<h2>💬 Connect With Me</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yash-g-2412241bb" target="_blank">
