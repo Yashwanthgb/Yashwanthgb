@@ -24,13 +24,12 @@
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
 
-<p align="left">
-  <h2>🚀 Tech Stack</h2>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40"/>
+  <h2>🚀 Tech Stack</h2>
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" height="40"/>
