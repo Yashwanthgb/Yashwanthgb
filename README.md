@@ -1,6 +1,15 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;AI+%7C+ML+%7C+Full+Stack+Developer+💻;Thanks+for+visiting!&center=true&width=500&height=50">
+</p>
+
+
+---
+
+
 <h1 align="center">Hey there! 👋 I'm Yashwanth G</h1>
 <p align="center">
-  <em>AI/ML Engineer | Full Stack Developer | Data Analyst<br/>
+  <em>AI/ML Engineer | Data Analyst<br/>
   MS in Data Science — University of Memphis 🎓</em>
 </p>
 
@@ -55,7 +64,3 @@
 > “The only way to do great work is to love what you do.” – Steve Jobs
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;AI+%7C+ML+%7C+Full+Stack+Developer+💻;Thanks+for+visiting!&center=true&width=500&height=50">
-</p>
