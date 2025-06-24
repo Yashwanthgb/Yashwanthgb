@@ -38,17 +38,7 @@
 
 ---
 
-<h2>📈 Stats & Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthgb&theme=github-dark-blue" alt="Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanthgb&show_icons=true&theme=vision-friendly-dark"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthgb&layout=compact&theme=tokyonight"/>
-</p>
-
----
+ 
 
 <h2>💬 Connect With Me</h2>
 
