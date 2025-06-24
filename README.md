@@ -26,7 +26,7 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-<p>
+<p align="left">
   <h2>🚀 Tech Stack</h2>
 
 <p>
