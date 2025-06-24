@@ -1,36 +1,61 @@
-# 🍔 Yashwanth G — AI/ML Engineer | Data Analyst
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF4F00&vCenter=true&multiline=true&width=500&lines=Hi+there!+I'm+Yashwanth+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+Full+Stack+Developer+%F0%9F%9B%A0;Grubhub-inspired+technologist+fueling+data-driven+apps)
-
----
-
-🍕 **About Me:**
-
-- 👨‍💻 Passionate about **Machine Learning**, **Python**, and full-stack systems
-- 🍽 Inspired by Grubhub's scale: real-time systems, customer data, and delivery ops
-- 🌎 Open to opportunities in AI, ML, Data Analyst, Backend, or Full Stack roles
+<h1 align="center">Hey there! 👋 I'm Yashwanth G</h1>
+<p align="center">
+  <em>AI/ML Engineer | Full Stack Developer | Data Analyst<br/>
+  MS in Data Science — University of Memphis 🎓</em>
+</p>
 
 ---
 
-🛠 **Languages & Tools**
+<h2>🚀 What I'm Working On</h2>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring-boot)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+- 🧠 Building intelligent systems using Python, Transformers, LLMs, and RAG
+- 💻 Scaling backend applications with Spring Boot, Django, and PostgreSQL
+- ☁️ Deploying AI services on AWS (Lambda, S3, OpenSearch)
+- 🤖 Exploring MLOps, vector databases, and chatbot automation
 
 ---
 
-📫 **Reach Me**
-- 📧 Email: yashwanth.goud657@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/yash-g-2412241bb/)
+<h2>🛠️ Tech Stack</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-⚡ **Fun Fact:**  
-I once built an ML pipeline that scaled like a hungry customer base on Friday night at Grubhub 😄
+<h2>📈 Stats & Activity</h2>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthgb&theme=github-dark-blue" alt="Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanthgb&show_icons=true&theme=vision-friendly-dark"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthgb&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<h2>💬 Connect With Me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/yash-g-2412241bb/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:yashwanth.goud657@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<h2>🧠 Quote I Live By</h2>
+
+> “The only way to do great work is to love what you do.” – Steve Jobs
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;AI+%7C+ML+%7C+Full+Stack+Developer+💻;Thanks+for+visiting!&center=true&width=500&height=50">
+</p>
